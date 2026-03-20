@@ -1,4 +1,4 @@
-baseURL: https://example.org/
+baseURL: "https://sereiwathna.github.io/sereiwathna.github.io/"
 locale: en-us
-title: My New Hugo Project
+title: In Construction
 theme: ["PaperMod"]
