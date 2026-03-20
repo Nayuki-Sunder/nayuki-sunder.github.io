@@ -50,7 +50,7 @@ jobs:
           cd ${GITHUB_WORKSPACE}/built-site
           
           # Git configuration
-          git config user.name 'Nayuki-Sunder'
+          git config user.name 'sereiwathnaa'
           git config user.email 'sereiwathnaros@chungbuk.ac.kr'
           
           # Commit and Push
